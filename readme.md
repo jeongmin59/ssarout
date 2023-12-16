@@ -112,19 +112,19 @@
 
 |전체곡 조회|검색 & 즐찾|검색 후 녹음|
 |:---:|:---:|:---:|
-|![검색_확성기_전체곡조회.gif](readme_assets/검색_확성기_전체곡조회.gif)|![검색_장범준검색_즐찾.gif](readme_assets/검색_장범준검색_즐찾.gif)|![검색 후 녹음.gif](readme_assets/검색 후 녹음.gif)|
+|![검색_확성기_전체곡조회.gif](readme_assets/검색_확성기_전체곡조회.gif)|![검색_장범준검색_즐찾.gif](readme_assets/검색_장범준검색_즐찾.gif)|![검색_후_녹음.gif](readme_assets/검색_후_녹음.gif)|
 
 |녹음|녹음 후 결과|다시부르기|
 |:---:|:---:|:---:|
-|![녹음_short.gif](readme_assets/녹음_short.gif)|![녹음_노래끝나고 바로 결과페이지 연결.gif](readme_assets/녹음_노래끝나고 바로 결과페이지 연결.gif)|![다시부르기_full.gif](readme_assets/다시부르기_full.gif)|
+|![녹음_short.gif](readme_assets/녹음_short.gif)|![녹음_노래끝나고_바로_결과페이지_연결.gif](readme_assets/녹음_노래끝나고_바로_결과페이지_연결.gif)|![다시부르기_full.gif](readme_assets/다시부르기_full.gif)|
 
 |마이페이지 즐겨찾기|마이페이지 성장그래프|히스토리|
 |:---:|:---:|:---:|
 |![마이페이지_즐찾.gif](readme_assets/마이페이지_즐찾.gif)|![마이페이지_성장그래프.gif](readme_assets/마이페이지_성장그래프.gif)|![히스토리.gif](readme_assets/히스토리.gif)|
 
-|녹음한 곡이 4곡일때|한 곡 부르고 AI 게이지 차기|5곡 채운 후 AI 노래 신청|AI 노래 들으러가기 및 재생|
-|:---:|:---:|:---:|:---:|
-|![AI_4곡일때 쇼츠.gif](readme_assets/AI_4곡일때 쇼츠.gif)|![한곡부르고_메인_게이지_차기.gif](readme_assets/한곡부르고_메인_게이지_차기.gif)|![AI_다채우고 ai 신청.gif](readme_assets/AI_다채우고 ai 신청.gif)|![AI_페이지 이동 및 재생.gif](readme_assets/AI_페이지 이동 및 재생.gif)|  
+|녹음한 곡이 4곡일때|5곡 채운 후 AI 노래 신청|AI 노래 들으러가기 및 재생|
+|:---:|:---:|:---:|
+|![AI_4곡일때 쇼츠.gif](readme_assets/AI_4곡일때_쇼츠.gif)|![AI_다채우고 ai 신청.gif](readme_assets/AI_다채우고_ai_신청.gif)|![AI_페이지 이동 및 재생.gif](readme_assets/AI_페이지_이동_및_재생.gif)|  
 <br/>
 
 ## 시스템 아키텍처
